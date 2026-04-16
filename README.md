@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESG Report  Environment Analyzer — Project Overview
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -131,3 +132,6 @@ J --> K[Streamlit Dashboard Visualization]
 
 ---
 
+=======
+# ESG-Greenwashing-detector
+>>>>>>> 0c14f1a18dc51f88d65be64a8574c32b9a93bd0b
